@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Custom Controls\CustomToggleButtons.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Custom Controls\LTrackBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Custom Controls\RoundedButtons.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Game Setting\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game Setting\GameMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game Setting\MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game Setting\Option.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Game Setting\Ranks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Snake Setting\SnakeBodyBorder.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

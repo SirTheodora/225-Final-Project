@@ -1,0 +1,27 @@
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\bin\Debug\net8.0-windows\PROG 225 - Final.exe
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\bin\Debug\net8.0-windows\PROG 225 - Final.deps.json
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\bin\Debug\net8.0-windows\PROG 225 - Final.runtimeconfig.json
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\bin\Debug\net8.0-windows\PROG 225 - Final.dll
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\bin\Debug\net8.0-windows\PROG 225 - Final.pdb
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG_225___Final.Form1.resources
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG 225 - Final.csproj.GenerateResource.cache
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG 225 - Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG 225 - Final.AssemblyInfoInputs.cache
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG 225 - Final.AssemblyInfo.cs
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG 225 - Final.csproj.CoreCompileInputs.cache
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG 225 - Final.dll
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\refint\PROG 225 - Final.dll
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG 225 - Final.pdb
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG 225 - Final.genruntimeconfig.cache
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\ref\PROG 225 - Final.dll
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG_225___Final.Game_Setting.MainMenu.resources
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG_225___Final.Game_Setting.Option.resources
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG_225___Final.Properties.Resources.resources
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG_225___Final.Game_Setting.GameMode.resources
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG 225 - Final.csproj.ResolveComReference.cache
+C:\Users\wizti\Desktop\CODING PROJECTS\PROG 225 - Final\PROG 225 - Final\obj\Debug\net8.0-windows\PROG_225___Final.Game_Setting.Ranks.resources

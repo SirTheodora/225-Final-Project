@@ -1,0 +1,5 @@
+1. Implement Game Modes (Come out from opposite side when hitting wall instead of dying)
+2. Slow speed and gradually increase speed as time goes on
+3. Add Music and Sound Effects
+4. Implement Options and Fix Main Menu appearance
+5. Scoreboard Using Json Serialization

@@ -1,0 +1,5 @@
+(Rounded Trackbar) - https://www.cnblogs.com/lesliexin/p/13265707.html 
+(Rounded Buttons) - https://www.youtube.com/watch?app=desktop&v=u8SL5g9QGcI&t=69s
+(Rounded ToggleButtons) - https://www.youtube.com/watch?v=m7Iv6xfjnuw
+(Background Images) - https://designer.microsoft.com/home
+(Image Upscaler) - https://imgupscaler.com/
